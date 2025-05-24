@@ -4,3 +4,7 @@
 ```python
 print('Hello World')
 ```
+
+- [ ] Communicate using markdown
+- [ ] review pull requests
+- [ ] GitHub Advanced Security
